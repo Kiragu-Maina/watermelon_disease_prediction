@@ -1,6 +1,6 @@
 # Watermelon Disease Prediction
 
-This repository contains a Flask web application for predicting watermelon diseases from images. Below are the installation instructions to set up and run the application on your local machine.
+This repository contains a Flask web application for predicting watermelon diseases (Mosaic Virus, Anthracnose, and Downy Mildew) from images. Below are the installation instructions to set up and run the application on your local machine.
 
 ## Installation Instructions
 
